@@ -33,6 +33,8 @@ import org.checkerframework.javacutil.TreeUtils;
 
 /**
  * Created by ben on 7/18/17.
+ * Modification of JavaSource2CFGDOT.java, this is our first foray into screwing around with the
+ * dataflow framework for our own dastardly purposes. Currently trying to get it to run.
  */
 public class JavaSourceToExprDependencyDOT {
 
